@@ -55,6 +55,7 @@
     background-color: red;
     margin: auto;
     margin-top: 50px;
+    transition:0.5s ;
 }
 
 .active {
